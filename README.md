@@ -1,6 +1,10 @@
 <img align="right" src="https://marcello-pichini.github.io/profile.jpeg" width="145" alt="Marcello Pichini" />
 
-## Hi there, I'm Marcello Pichini 👋
+# Marcello Pichini
+
+**Digital Assets · AI & Data Product Leadership**
+
+I'm Marcello Pichini, Associate Director and Senior Product Manager at SIX Group in Zürich, Switzerland. My work spans crypto indices, financial market data, and AI products. Explore my [professional portfolio](https://marcello-pichini.github.io/).
 
 - Product leader at **SIX Group**, working across **digital assets, AI, and financial data**.
 - I own the roadmap for **300+ indices** across crypto, global, Swiss, and ESG markets.
