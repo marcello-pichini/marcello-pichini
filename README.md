@@ -27,11 +27,11 @@ My work connects crypto-asset benchmarks and reliable market data with product s
 
 <table>
 <tr>
-<td width="110" align="center"><img src="https://marcello-pichini.github.io/certifications/deeplearning-ai.png" width="100" alt="DeepLearning.AI logo" /></td>
+<td width="110" align="center"><img src="https://raw.githubusercontent.com/marcello-pichini/marcello-pichini.github.io/44aedb0860cd30cddba9cd60feb160bd571e62c3/certifications/deeplearning-ai.png" width="100" alt="DeepLearning.AI logo" /></td>
 <td><strong>Generative AI with Large Language Models</strong><br>DeepLearning.AI<br>Issued June 2024<br><sub>Large Language Models · Generative AI</sub></td>
 </tr>
 <tr>
-<td width="110" align="center"><img src="https://marcello-pichini.github.io/certifications/safe-6-practitioner.png" width="90" alt="Certified SAFe 6 Practitioner badge" /></td>
+<td width="110" align="center"><img src="https://raw.githubusercontent.com/marcello-pichini/marcello-pichini.github.io/44aedb0860cd30cddba9cd60feb160bd571e62c3/certifications/safe-6-practitioner.png" width="90" alt="Certified SAFe 6 Practitioner badge" /></td>
 <td><strong>Certified SAFe® 6 Practitioner</strong><br>SAFe by Scaled Agile, Inc.<br>Issued September 2023 · Expired September 2024<br><sub>Product Management</sub></td>
 </tr>
 </table>
