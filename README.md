@@ -23,6 +23,19 @@ My work connects crypto-asset benchmarks and reliable market data with product s
 - **AI for financial services:** developed conversational AI, NLP chatbots, and computer-vision proofs of concept at IBM.
 - **Product delivery:** redesigned a development process to reduce time-to-market by 50%.
 
+### Certifications
+
+<table>
+<tr>
+<td width="110" align="center"><img src="https://marcello-pichini.github.io/certifications/deeplearning-ai.png" width="100" alt="DeepLearning.AI logo" /></td>
+<td><strong>Generative AI with Large Language Models</strong><br>DeepLearning.AI<br>Issued June 2024<br><sub>Large Language Models · Generative AI</sub></td>
+</tr>
+<tr>
+<td width="110" align="center"><img src="https://marcello-pichini.github.io/certifications/safe-6-practitioner.png" width="90" alt="Certified SAFe 6 Practitioner badge" /></td>
+<td><strong>Certified SAFe® 6 Practitioner</strong><br>SAFe by Scaled Agile, Inc.<br>Issued September 2023 · Expired September 2024<br><sub>Product Management</sub></td>
+</tr>
+</table>
+
 ### Beyond product
 
 I co-founded **./cogita**, a nonprofit making machine learning and generative AI accessible to broader audiences. Our courses have reached **12,000+ learners**. I lead a team of 12 and secured **€500,000 in NextGenerationEU funding**.
@@ -34,3 +47,4 @@ I share reflections on AI and technology on [Medium](https://medium.com/@marcell
 ### Connect with me
 
 [Website](https://marcello-pichini.github.io/) · [LinkedIn](https://www.linkedin.com/in/marcello-pichini) · [GitHub](https://github.com/marcello-pichini) · [Medium](https://medium.com/@marcello.pichini)
+
