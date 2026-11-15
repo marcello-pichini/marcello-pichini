@@ -1,4 +1,3 @@
-<img align="right" src="https://marcello-pichini.github.io/profile.jpeg" width="145" alt="Marcello Pichini" />
 
 # Marcello Pichini
 
