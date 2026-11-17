@@ -17,7 +17,7 @@ My work connects crypto-asset benchmarks and reliable market data with product s
 
 ### Selected work
 
-- **AI Science Tracker:** an open, sourced catalog of 839 scientific discoveries made with AI since 2020, with evidence levels, open data and an API. [Site](https://marcello-pichini.github.io/ai-science-tracker/) · [Repository](https://github.com/marcello-pichini/ai-science-tracker)
+- **AI Science Tracker:** an open, sourced catalog of 1,100+ scientific discoveries made with AI since 2020, plus AI-found vulnerabilities and model releases, with evidence levels, open data and an API. [Site](https://aisciencetracker.org) · [Repository](https://github.com/marcello-pichini/ai-science-tracker)
 - **Crypto benchmarks & market data:** designed a scalable crypto-asset benchmark at CheckSig and built data infrastructure with REST APIs, MongoDB, AWS, and Python.
 - **Index platforms:** led a platform integration at SIX, migrated 100+ indices, and helped scale the portfolio to 300+ indices in production.
 - **AI for financial services:** developed conversational AI, NLP chatbots, and computer-vision proofs of concept at IBM.
